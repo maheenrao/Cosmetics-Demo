@@ -3,6 +3,7 @@
   font: inherit;
   border:gray ;
   background-color: #58b397f1;
+  border: 1px solid #715348;
   color: rgb(255, 251, 251);
   padding: 0.75rem 3rem;
   display: flex;

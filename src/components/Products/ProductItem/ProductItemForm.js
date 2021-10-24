@@ -1,6 +1,6 @@
 
 import Input from "../../UI/Input";
-import classes from "../ProductItem/ProductItemForm.module.css";
+import classes from "./ProductItemForm.module.css";
 import { useRef , useState} from "react";
 
 
